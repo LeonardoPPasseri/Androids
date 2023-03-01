@@ -1,2 +1,4 @@
 # androids
- Site criado para estudo de html e css pelo CursoEmVideo
+Desafio proposto pelo canal CursoEmVideo
+
+https://leonardoppasseri.github.io/Androids/
